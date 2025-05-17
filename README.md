@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Marcondes!
 
-<!--
-**Marcondes05/Marcondes05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação no IFTM
 
-Here are some ideas to get you started:
+📍 Ituiutaba - MG, Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que uso
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/MySQL-teal?style=for-the-badge&logo=mysql)
+
+## 📈 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcondes05&show_icons=true&theme=radical)
+
+## 📫 Contato
+- ✉️ Email: netoitba10@gmail.com
+- 💼 LinkedIn: [Marcondes Neto](https://www.linkedin.com/in/marcondesneto/)
