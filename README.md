@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Marcondes!
 
-🎓 Estudante de Ciência da Computação no IFTM
-Programar é aprender todo dia
-📍 Ituiutaba - MG, Brasil
+#🎓 Estudante de Ciência da Computação no IFTM
+#Programar é aprender todo dia
+#📍 Ituiutaba - MG, Brasil
 
 ## 🚀 Tecnologias usadas
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
